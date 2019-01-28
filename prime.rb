@@ -12,5 +12,3 @@ def prime?(num)
       return true
   end
 end
-
-prime?(6)
